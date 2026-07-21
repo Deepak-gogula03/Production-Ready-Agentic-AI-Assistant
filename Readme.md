@@ -528,43 +528,33 @@ This project showcases several modern AI engineering concepts commonly used in p
 
 # 📸 Screenshots
 
-> **Note:** Replace the placeholders below with screenshots from your project.
-
 ## 🏗️ System Architecture
 
-![Architecture](screenshots/architecture.png)
-
----
+<img width="1536" height="1024" alt="ChatGPT Image Jul 22, 2026, 12_03_09 AM" src="https://github.com/user-attachments/assets/f8c1e360-a331-41cc-8fd1-3582660cc462" />
 
 ## 🔄 Agent Workflow
 
-![Workflow](screenshots/workflow.png)
+<img width="1536" height="1024" alt="ChatGPT Image Jul 22, 2026, 12_05_17 AM" src="https://github.com/user-attachments/assets/8e8f4ba9-ae42-42bc-bff6-1b05e923c83a" />
 
----
+## 💬 Chat Bot Graph
 
-## 💬 AI Assistant Output
+<img width="106" height="234" alt="image" src="https://github.com/user-attachments/assets/085f903d-5b8b-4303-b181-f6a95ed85c81" />
 
-![Application Output](screenshots/output.png)
+## 💬 Tool Calling Graph
 
----
+<img width="155" height="333" alt="image" src="https://github.com/user-attachments/assets/752c1cf0-5f45-4b9b-849a-292f26803e39" />
 
-## 🧠 Memory Demonstration
+<img width="216" height="249" alt="image" src="https://github.com/user-attachments/assets/e98237a6-3116-4b39-80a6-11eeca1e79c6" />
 
-![Memory](screenshots/memory.png)
+## 🔄 AI Assistant Outputs
 
----
+<img width="1472" height="862" alt="image" src="https://github.com/user-attachments/assets/bb98bbd3-1111-45db-9569-5318160d606b" />
 
-## 🔧 Tool Calling Demonstration
+<img width="1470" height="870" alt="image" src="https://github.com/user-attachments/assets/7add290c-efd6-43f8-a42c-3092474995b0" />
 
-![Tool Calling](screenshots/tool_calling.png)
+<img width="1472" height="888" alt="image" src="https://github.com/user-attachments/assets/ff60939e-48b0-46d9-9121-3fccd44ae190" />
 
----
-
-## 🌐 Tavily Search Output
-
-![Tavily Search](screenshots/tavily_search.png)
-
----
+<img width="1476" height="870" alt="image" src="https://github.com/user-attachments/assets/181b859b-2873-414a-9735-2b72a95adfec" />
 
 # 📥 Installation
 
@@ -652,14 +642,7 @@ python app.py
 Production-Ready-Agentic-AI-Assistant/
 │
 ├── notebooks/
-│   └── basicchatbot.ipynb
-│
-├── screenshots/
-│   ├── architecture.png
-│   ├── workflow.png
-│   ├── output.png
-│   ├── memory.png
-│   └── tool_calling.png
+│   └── chatbot.ipynb
 │
 ├── requirements.txt
 ├── pyproject.toml
