@@ -543,7 +543,7 @@ This project showcases several modern AI engineering concepts commonly used in p
 ## 💬 Tool Calling Graph
 
 <img width="155" height="333" alt="image" src="https://github.com/user-attachments/assets/752c1cf0-5f45-4b9b-849a-292f26803e39" />
----
+
 <img width="216" height="249" alt="image" src="https://github.com/user-attachments/assets/e98237a6-3116-4b39-80a6-11eeca1e79c6" />
 
 ## 🔄 AI Assistant Outputs
